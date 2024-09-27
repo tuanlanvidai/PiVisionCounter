@@ -1,0 +1,10 @@
+Components Needed:
+
+Hardware:
+	- Raspberry Pi 4 Model B (or any compatible version)
+	- Raspberry Pi Camera Module V2
+
+Software and Online Services:
+	- ThingSpeak IoT Platform
+	- Python 3
+	- OpenCV Library
